@@ -1,0 +1,14 @@
+ToxicPong, True, Izaya Tiji, Ken Carson, boolymon
+Modity, True, Destroy Lonely, Izaya Tiji
+ZaneIsInsane, False, None
+k6l, True, Izaya Tiji, Drake, Destroy Lonely
+yslkami, True, Izaya Tiji, boolymon
+gemlova, True, Destroy Lonely, Playboi Carti
+charliemd22, True, Playboi Carti
+auvcy, True, Ken Carson, Drake
+ja, True, Ken Carson
+maduxty, False, None
+loki_kingcobruh, False, None
+zazunai, False, None
+kynsoul, True, Izaya Tiji
+collabs, False, None
